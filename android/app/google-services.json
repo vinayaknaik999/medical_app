@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "574208609738",
+    "firebase_url": "https://fir-test-3f28e.firebaseio.com",
+    "project_id": "fir-test-3f28e",
+    "storage_bucket": "fir-test-3f28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574208609738:android:d2f764b832ccbec93b9333",
+        "android_client_info": {
+          "package_name": "com.example.medical_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfhRHEX3N0V4GgqCMv6OSZwRc-BiC1k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574208609738:android:52b8f8d9d51918f83b9333",
+        "android_client_info": {
+          "package_name": "com.vinayak.pawmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfhRHEX3N0V4GgqCMv6OSZwRc-BiC1k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574208609738:android:29129c42717f55993b9333",
+        "android_client_info": {
+          "package_name": "com.vinayak.pawmates_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfhRHEX3N0V4GgqCMv6OSZwRc-BiC1k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574208609738-nk0hvchnu1utrf62saiq46qlr6elgrpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
